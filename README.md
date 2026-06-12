@@ -21,3 +21,14 @@ App for iPad (Android version in development)
 
 ![Tinkerplay](https://sketchfab.com/tinkerplay)
 iPad app for designing 3D characters.
+
+# Under-Represented Design
+Underrepresented Design Reading List
+
+This page highlights a curated collection of books, articles, and resources that amplify the voices and contributions of underrepresented designers, architects, planners, and artists. The reading list is intended to support inclusive design education, encourage critical discussions about equity in the built environment, and provide students with diverse perspectives on design history and practice.
+
+Explore the full collection through the library's LibGuide, which includes recommended readings, research materials, and additional resources for further study.
+
+View the complete reading list: ![Libguidess} (https://libguides.nyit.edu/c.php?g=477904&p=3987180#s-lg-box-wrapper-29460574)
+
+
