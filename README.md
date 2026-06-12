@@ -29,6 +29,6 @@ This page highlights a curated collection of books, articles, and resources that
 
 Explore the full collection through the library's LibGuide, which includes recommended readings, research materials, and additional resources for further study.
 
-View the complete reading list: ![Libguidess} (https://libguides.nyit.edu/c.php?g=477904&p=3987180#s-lg-box-wrapper-29460574)
+View the complete reading list: ![Libguidess] (https://libguides.nyit.edu/c.php?g=477904&p=3987180#s-lg-box-wrapper-29460574)
 
 
