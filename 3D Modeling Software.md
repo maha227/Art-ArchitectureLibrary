@@ -1,5 +1,5 @@
 Desktop Software
-[TinkerCAD] (https://www.tinkercad.com/)
+[TinkerCAD](https://www.tinkercad.com/)
 A free, web-based application to create 3D models for printing. This app is very quick to learn, with quick tutorials and lessons on how to use it. It can generate quick shapes and geometry, insert letters, numbers and symbols into your model, and can import from other 3D files. It requires a free account with Autodesk.
 
 [SketchUp](https://sketchup.trimble.com/en)
