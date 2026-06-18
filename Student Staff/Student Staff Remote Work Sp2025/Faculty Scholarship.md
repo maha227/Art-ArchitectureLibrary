@@ -14,3 +14,6 @@
 [Marta Caldeira (Google Scholar)](https://scholar.google.com/citations?hl=en&user=Mfz0FhcAAAAJ)
 
 [MDongsei Kim (Google Scholar)](https://scholar.google.com/citations?hl=en&user=yglulgwAAAAJ)
+
+[Pablo Lorenzo-Eiroa (Google Scholar)](https://scholar.google.com/citations?hl=en&user=Z9I8j9cAAAAJ)
+
