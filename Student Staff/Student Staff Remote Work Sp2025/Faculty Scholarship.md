@@ -1,5 +1,5 @@
 # Faculty Scholarship Feeds 
-1. **Tenured Faculty**
+**1.Tenured Faculty**
 
 ![Matias del Campo (Google Scholar)](https://scholar.google.com/citations?hl=en&user=0q_LazsAAAAJ)
 
