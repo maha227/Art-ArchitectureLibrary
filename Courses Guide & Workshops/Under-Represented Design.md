@@ -1,4 +1,4 @@
-Underrepresented Design Reading List
+# Underrepresented Design Reading List
 
 This page highlights a curated collection of books, articles, and resources that amplify the voices and contributions of underrepresented designers, architects, planners, and artists. The reading list is intended to support inclusive design education, encourage critical discussions about equity in the built environment, and provide students with diverse perspectives on design history and practice.
 
