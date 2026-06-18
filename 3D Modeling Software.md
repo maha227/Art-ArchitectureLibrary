@@ -5,10 +5,10 @@ A free, web-based application to create 3D models for printing. This app is very
 [SketchUp](https://sketchup.trimble.com/en)
 SketchUp, which was owned by Google but sold to Trimble, is a great 3D modeling program with a quick learning curve and a lot of documentation.
 
-[Blender] (https://www.blender.org/)
+[Blender](https://www.blender.org/)
 Blender is an extremely powerful, open-source, professional 3D production software that allows for creation of 3D models, applications, and video games.
 
-[Autodesk Meshmixer] (https://marketplace.autodesk.com/apps/2e40e347-0369-4603-b83f-ecab324aed0f)
+[Autodesk Meshmixer](https://marketplace.autodesk.com/apps/2e40e347-0369-4603-b83f-ecab324aed0f)
 MeshMixer is a 3D processing software that allows for editing and refining 3D models (for example, adding supports), and creating new and interesting designs.
 
 Mobile Apps
