@@ -7,3 +7,5 @@
 
 ![Marcella Del Signore (Scopus)](https://www-scopus-com.nyit.idm.oclc.org/authid/detail.uri?authorId=57205530190)
 
+![Farzana Gandhi (Google Scholar)](https://scholar.google.com/citations?hl=en&user=DSwIc3cAAAAJ)
+
