@@ -1,11 +1,11 @@
 # Faculty Scholarship Feeds 
 **1.Tenured Faculty**
 
-![Matias del Campo](https://scholar.google.com/citations?hl=en&user=0q_LazsAAAAJ)
+[Matias del Campo](https://scholar.google.com/citations?hl=en&user=0q_LazsAAAAJ)
 
-![Marcella Del Signore (Google Scholar)](https://scholar.google.com/citations?hl=en&user=L74fRx4AAAAJ)
+[Marcella Del Signore (Google Scholar)](https://scholar.google.com/citations?hl=en&user=L74fRx4AAAAJ)
 
-![Marcella Del Signore (Scopus)](https://www-scopus-com.nyit.idm.oclc.org/authid/detail.uri?authorId=57205530190)
+[Marcella Del Signore (Scopus)](https://www-scopus-com.nyit.idm.oclc.org/authid/detail.uri?authorId=57205530190)
 
-![Farzana Gandhi (Google Scholar)](https://scholar.google.com/citations?hl=en&user=DSwIc3cAAAAJ)
+[Farzana Gandhi (Google Scholar)](https://scholar.google.com/citations?hl=en&user=DSwIc3cAAAAJ)
 
