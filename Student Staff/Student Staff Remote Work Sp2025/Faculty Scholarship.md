@@ -19,3 +19,10 @@
 
 [Alessandro Melis (Google Scholar)](https://scholar.google.com/citations?hl=en&user=bGNkbhYAAAAJ)
 
+[Alessandro Melis (Scopus)](https://scholar.google.com/citations?hl=en&user=bGNkbhYAAAAJ)
+
+[Alessandro Melis (Litmaps)](https://scholar.google.com/citations?hl=en&user=bGNkbhYAAAAJ)
+
+[Jeffrey Raven (Google Scholar)](https://scholar.google.com/citations?hl=en&user=KABpatUAAAAJ)
+
+[Tom Verebes (Google Scholar)](https://scholar.google.com/citations?hl=en&user=NQ4kc8wAAAAJ)
