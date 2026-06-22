@@ -1,8 +1,8 @@
-Art & Architecture Library Suggested Media and Readingi 
+## Art & Architecture Library Suggested Media and Readingi 
 
 Recently published art, architecture, and design books, articles, film, blogs, exhibitions, or other media selected by students. From this exercise, student staff increase awareness of current trends and technologies in the architecture and design fieldsii.  
 
-Monthly Books and Media Picks 
+## Monthly Books and Media Picks 
 
 Article selected Monthly by School of Architecture and Design Students. This selection compiled by, (Name, year, degree) and ... 
 
