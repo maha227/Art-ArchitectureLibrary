@@ -35,6 +35,6 @@ Open to learning more about libraries, specialized collections and services.
 
 Learning Outcomes: 
 
-“Graduate Assistants will access research support services and collections beyond their local institutions and libraries, including archives, museums, and historical societies; Use historic maps (such as fire insurance maps) and other primary documents for architectural research; Locate dissertations and theses on a research topic; Locate, understand, and compare architectural product and material information through curated databases, manufacturers’ catalogues, and other industry literature”. (Art, Architecture, and Design Information Competencies (June 2018)) 
+“Graduate Assistants will access research support services and collections beyond their local institutions and libraries, including archives, museums, and historical societies; Use historic maps (such as fire insurance maps) and other primary documents for architectural research; Locate dissertations and theses on a research topic; Locate, understand, and compare architectural product and material information through curated databases, manufacturers’ catalogues, and other industry literature”. [] (Art, Architecture, and Design Information Competencies (June 2018)) 
 
  
