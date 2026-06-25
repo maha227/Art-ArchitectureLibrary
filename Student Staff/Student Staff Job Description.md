@@ -11,7 +11,7 @@ Under the supervision of the Art & Architecture Library Associate Director and t
 
 Hours: Up to 19 ½ hours per week; schedule varies. Evening Hours included.  
 
-Responsibilities:   
+## Responsibilities:   
 
 * Assist students, faculty and staff with face-to-face questions, answers the phone with informational and directional questions  
 
@@ -23,7 +23,7 @@ Responsibilities:
 
 * Help maintain lending technology, study spaces, and cleanliness of the library  
 
-A Qualified Candidate is:  
+## A Qualified Candidate is:  
 
 * Comfortable and building confidence with communication and public service skills  
 
@@ -37,7 +37,7 @@ A Qualified Candidate is:
 
 * Open to learning more about the specialized Art & Architecture branch library  
 
-Learning Outcomes:  
+## Learning Outcomes:  
 
 * Students will leave with stronger leadership, teamwork, and professional skills. Students will experience what it is like to work in a specialized library while still making time for their schoolwork.  
 
@@ -53,7 +53,7 @@ Graduate Assistants are tasked with semester length projects.
 
 Hours: Up to 19 ½ hours per week; schedule varies. May include some evenings. 
 
-Responsibilities: 
+## Responsibilities: 
 
 * The GA works with the Architecture Librarian to coordinate their semester project. Projects may include digitizing the architectural thesis collection and/or video tape archive; assisting the architecture librarian in tracking advancements in GIS and Community Research for architectural and urban design research; developing training for the use of architectural archives; curating specialized topic guides related to their SoAD graduate degree path.   
 
@@ -69,7 +69,7 @@ Responsibilities:
 
  
 
-A Qualified Candidate is: 
+## A Qualified Candidate is: 
 
 * Proactive communication and public service skills 
 
@@ -85,17 +85,17 @@ A Qualified Candidate is:
 
  
 
-Learning Outcomes: 
+## Learning Outcomes: 
 
 * Students will leave with stronger leadership, teamwork, and professional skills. Students will experience what it is like to work in a specialized library while still making time for their schoolwork. 
 
 * Student workers will learn to communicate with their peers and superiors within the library setting and will be able to adapt to future working environments and social settings. 
 
-* Graduate Assistants will access research support services and collections beyond their local institutions and libraries, including archives, museums, and historical societies; Use historic maps (such as fire insurance maps) and other primary documents for architectural research; Locate dissertations and theses on a research topic; Locate, understand, and compare architectural product and material information through curated databases, manufacturers’ catalogues, and other industry literature. (Art, Architecture, and Design Information Competencies (June 2018)) 
+* Graduate Assistants will access research support services and collections beyond their local institutions and libraries, including archives, museums, and historical societies; Use historic maps (such as fire insurance maps) and other primary documents for architectural research; Locate dissertations and theses on a research topic; Locate, understand, and compare architectural product and material information through curated databases, manufacturers’ catalogues, and other industry literature. [(Art, Architecture, and Design Information Competencies (June 2018))](https://assets.noviams.com/novi-file-uploads/arlisna/pdfs-and-documents/research_and_reports/ARLISNA_artarchdesigninfocomp_2018-dea86cfe.pdf)
 
  
 
-SoAD / Engineering Graduate Programs 
+## [SoAD / Engineering Graduate Programs](https://www.nyit.edu/academics/degrees/?_degree_type=graduate&_location=long-island-ny&_college_school=school-of-architecture-design)
 
 Architecture, Computational Technologies, M.S. 
 Architecture, M. Arch. 
@@ -120,7 +120,7 @@ Hours:
 
 Up to 19 ½ hours per week; schedule varies. May include some evenings. 
 
-Responsibilities: 
+## Responsibilities: 
 
 * Assist faculty, staff, and students in person and on the phone with informational and directional questions 
 
@@ -142,7 +142,7 @@ Responsibilities:
 
 * Performs routine office support function 
 
-A Qualified Candidate is: 
+## A Qualified Candidate is: 
 
 * Proactive communication and public service skills 
 
@@ -164,7 +164,7 @@ A Qualified Candidate is:
 
  
 
-Learning Outcomes: 
+## Learning Outcomes: 
 
 * Students will leave with stronger leadership, teamwork, and professional skills. Students will experience what it is like to work in a specialized library while still making time for their schoolwork. 
 
@@ -185,7 +185,7 @@ You will get valuable experience working with a small team, and interacting with
 
  
 
-Library Student Assistant Responsibilities: 
+## Library Student Assistant Responsibilities: 
 
 Encourage use of a variety of library collections, services, and events and assist library users in locating library and online information sources. 
 
