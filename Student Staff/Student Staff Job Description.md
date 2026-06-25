@@ -97,7 +97,7 @@ Hours: Up to 19 ½ hours per week; schedule varies. May include some evenings.
 
 ## [SoAD / Engineering Graduate Programs](https://www.nyit.edu/academics/degrees/?_degree_type=graduate&_location=long-island-ny&_college_school=school-of-architecture-design)
 
-Architecture, Computational Technologies, M.S. 
+Architecture, Computational Technologies, M.S.  
 Architecture, M. Arch. 
 Digital Product Design, M.S. 
 Health & Design, M.S. 
