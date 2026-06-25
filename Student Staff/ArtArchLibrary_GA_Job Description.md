@@ -1,6 +1,6 @@
-Architecture Library Graduate Assistant (On Campus) - Summer II 2026 or Summer 2027 
+## Architecture Library Graduate Assistant (On Campus) - Summer II 2026 or Summer 2027 
 
-About this Job 
+## About this Job 
 
 Under the supervision of the Architecture Librarian/Associate Director, candidates provide an essential role in assisting users of the Art & Architecture Library located in Education Hall, Rm. 101 Long Island Campus, New York Institute of Technology.  
 
